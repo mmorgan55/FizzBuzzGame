@@ -13,6 +13,7 @@
   </style>
 
   <style name="FizzBuzzToggle" parent="AppTheme">
+    <item name="android:background">#00ffff</item>
     <item name="android:textSize">32sp</item>
     <item name="android:layout_width">150dp</item>
   </style>
